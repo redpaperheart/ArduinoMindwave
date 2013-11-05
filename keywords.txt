@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Mindwave
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Mindwave	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup		KEYWORD2
+update		KEYWORD2
+setDebug	KEYWORD2
+setTimeout	KEYWORD2
+
+hasNewData	 KEYWORD2
+isDebugging	KEYWORD2
+getAttention	KEYWORD2
+getMeditation	 KEYWORD2
+getPoorQuality	 KEYWORD2
+getQuality	 KEYWORD2
+
