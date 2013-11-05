@@ -7,7 +7,7 @@
  http://developer.neurosky.com/docs/doku.php?id=mindwave_mobile_and_arduino
  
  For installation and usage instructions check
- https://github.com/redpaperheart/Arduino-Mindwave
+ https://github.com/redpaperheart/ArduinoMindwave
 */
 
 #include "Mindwave.h"

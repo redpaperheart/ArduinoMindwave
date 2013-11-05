@@ -1,4 +1,4 @@
-Arduino-Mindwave
+ArduinoMindwave
 ================
 
 Arduino library to interface with the [Mindwave Mobile](http://www.neurosky.com/products/mindwavemobile.aspx) brainwave reader. Based on the [sample Arduino code](http://developer.neurosky.com/docs/doku.php?id=mindwave_mobile_and_arduino) from Neurosky, with some modifications to make it non-blocking, more object oriented and easier to use.
