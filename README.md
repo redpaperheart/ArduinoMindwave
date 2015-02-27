@@ -9,7 +9,7 @@ Installation
 ------------
 1- Download the zip file and decompress it in the “libraries” folder of your Arduino sketches folder. Restart the Arduino environment.
 
-2- Setup the hardware. You’ll need an [Arduino](http://arduino.cc/en/Main/arduinoBoardUno) and a [Bluetooth modem](https://www.sparkfun.com/products/10269). There are instructions on how to wire these and pair them with the Mindwave headset [here](http://developer.neurosky.com/docs/doku.php?id=mindwave_mobile_and_arduino) and [here](http://www.whizzosoftware.com/forums/blog/1/entry-48-bluesmirf-silver-bluetooth-modem-and-mac-os-x/).
+2- Setup the hardware. You’ll need an [Arduino](http://arduino.cc/en/Main/arduinoBoardUno) and a [Bluetooth modem](https://www.sparkfun.com/products/10269). There are instructions on how to wire these and pair them with the Mindwave headset [here](http://developer.neurosky.com/docs/doku.php?id=mindwave_mobile_and_arduino) and [here](http://whizzosoftware.com/blog/2011/12/09/bluesmirf-silver-luetooth-modem-and-mac-osx.html).
 
 3- Open the example at File/Examples/Mindwave/BasicMindwave and upload it to the Arduino. The wire to the Rx pin (0) will have to be unplugged or you will get an error. Plug it back after uploading, and see the console for the Serial port at 57600 bauds.
 
